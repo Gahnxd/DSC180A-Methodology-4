@@ -1,6 +1,8 @@
 # Gahn Wuwong       
 [gwuwong@ucsd.edu](mailto:gwuwong@ucsd.edu)
 
+---
+
 # Wildfire and Property Intelligence Modeling with Cotality     
 Ilyes Meftah, Lawrence Vulis, and Peter Nagy.
 
